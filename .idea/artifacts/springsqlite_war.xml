@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springsqlite:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-sqlite.war">
+      <element id="artifact" artifact-name="springsqlite:war exploded" />
+    </root>
+  </artifact>
+</component>
